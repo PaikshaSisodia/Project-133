@@ -1,0 +1,31 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.buttons{
+    background-color: rgb(137, 154, 255);
+    color: black;
+    border-radius: 20px;
+    border-color:darkslateblue;
+    width: 200px;
+    height: 50px;
+    font-family: fantasy;
+    font-weight: 200;
+    font-size: large;
+}
+
+#copyright{
+    color:rgb(198, 129, 255);
+    font-family: cursive;
+}
+
